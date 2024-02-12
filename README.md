@@ -8,5 +8,4 @@ running the application
 
 ng serve
 
-Output:
 
