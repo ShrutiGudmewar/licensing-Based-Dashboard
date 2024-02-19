@@ -1,13 +1,13 @@
-licensing Based Dashboard System
-============
-#installing the dependencies:
-=======
-Please initialize the project dependencies by navigating to your project folder in the terminal and executing the following command:
+# Licensing Based Dashboard System
 
+## Description
+This project is a licensing-based dashboard system. It allows users to manage licenses and perform various related tasks through a user-friendly interface.
+
+## Installation
+### Dependencies
+To install the necessary dependencies, navigate to your project folder in the terminal and run the following command:
+```bash
 npm install
-
-This will install all necessary node modules for seamless execution of the project.
-
 #running the application
 =====
 To start the development server and run your Angular project, use the following command in your terminal:
