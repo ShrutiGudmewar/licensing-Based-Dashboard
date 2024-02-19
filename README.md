@@ -8,6 +8,7 @@ This project is a licensing-based dashboard system. It allows admin to creat new
 To install the necessary dependencies, navigate to your project folder in the terminal and run the following command:
 ```bash
 npm install
+```bash
 #running the application
 =====
 To start the development server and run your Angular project, use the following command in your terminal:
