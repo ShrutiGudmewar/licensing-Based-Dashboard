@@ -10,7 +10,11 @@ This will install all necessary node modules for seamless execution of the proje
 
 #running the application
 =====
+To start the development server and run your Angular project, use the following command in your terminal:
+
 ng serve
+
+This command will compile your Angular application and launch a development server. You can then view your project by navigating to http://localhost:4200 in your web browser.
 
 Video Link:
 https://drive.google.com/file/d/135bA5UJC1s_EyTv2aeaiL4zPO7J0gVBq/view?usp=drivesdk
