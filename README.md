@@ -6,14 +6,14 @@ This project is a licensing-based dashboard system. It allows admin to creat new
 ## Installation
 ### Dependencies
 To install the necessary dependencies, navigate to your project folder in the terminal and run the following command:
-
+```bash
 "npm install"
 
 ### Running the Application
 
 To start the development server and run your Angular project, use the following command in your terminal:
 
-ng serve
+"ng serve"
 
 This command will compile your Angular application and launch a development server. You can then view your project by navigating to http://localhost:4200 in your web browser.
 
