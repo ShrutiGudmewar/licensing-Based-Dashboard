@@ -1,7 +1,7 @@
 # Licensing Based Dashboard System
 
 ## Description
-This project is a licensing-based dashboard system. It allows users to manage licenses and perform various related tasks through a user-friendly interface.
+This project is a licensing-based dashboard system. It allows admin to creat new user.
 
 ## Installation
 ### Dependencies
