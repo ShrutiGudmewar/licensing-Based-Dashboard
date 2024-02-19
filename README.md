@@ -1,6 +1,7 @@
 licensing Based Dashboard System
 ============
-#installing the dependencies
+#installing the dependencies:
+
 Please initialize the project dependencies by navigating to your project folder in the terminal and executing the following command:
 
 npm install
