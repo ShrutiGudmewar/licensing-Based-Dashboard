@@ -6,8 +6,8 @@ This project is a licensing-based dashboard system. It allows admin to creat new
 ## Installation
 ### Dependencies
 To install the necessary dependencies, navigate to your project folder in the terminal and run the following command:
-'''bash
-npm install
+
+"npm install"
 
 ### Running the Application
 
